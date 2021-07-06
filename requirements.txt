@@ -38,7 +38,7 @@ requests-toolbelt==0.9.1
 rfc3986==1.5.0
 RISparser==0.4.4
 scikit-learn==0.24.2
-scipy==1.6.3
+scipy==1.5.4
 six==1.16.0
 sklearn==0.0
 threadpoolctl==2.1.0
